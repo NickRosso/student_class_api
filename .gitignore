@@ -1,0 +1,30 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media
+migrations/
+get-pip.py
+# Unit test / scoring reports
+unit.xml
+
+# Distribution / packaging
+dist/
+
+# Environments
+.env
+env/
+venv/
+# virtual environment created by python_install.sh
+env1/
+
+# OS specific
+.DS_Store
+
+# IDE specific
+.idea/
+
+# Others
+assets/
